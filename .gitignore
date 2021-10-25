@@ -1,1 +1,16 @@
+*.gem
+*~
+.bundle
+.DS_Store
+local/build
+local/src
+vendor/bundle
+pkg/*
+bin/*
+files/**/cache/
+vendor/cookbooks
+.idea
 
+# RVM management
+.ruby-version
+.ruby-gemset
